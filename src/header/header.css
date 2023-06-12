@@ -1,0 +1,35 @@
+.header {
+    margin-top: 60px;
+
+}
+
+.headerTitles {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Times New Roman', Times, serif;
+    
+   
+}
+
+.headerTitlesm {
+    position: absolute;
+    top: 18%;
+    font-size: 20px;
+
+
+}
+
+.headerTitlelg {
+    position: absolute;
+    top: 21%;
+    font-size: 105px;
+    
+}
+
+.headerImg{
+    width: 100%;
+    height: 450px;
+    margin-top: 80px;
+    object-fit: cover;
+}
